@@ -292,11 +292,9 @@ For academic and educational purposes only.
 
 ## Developer
 
-**Tanmoy Kumar Das**  
-Software Development I (Fifth Semester)
 
-**GitHub:** [@tanmoykdas](https://github.com/tanmoykdas)  
-**Repository:** [CHOLO](https://github.com/tanmoykdas/CHOLO)
+Develop by **Binary** team. Members are 
+**Tanmoy kumar Das** **Prosenjit MOndol** **Md. Sakib Hasan**
 
 ---
 
